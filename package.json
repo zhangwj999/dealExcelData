@@ -1,0 +1,15 @@
+{
+	"name": "dealExcelData",
+	"description": "处理excel数据的小脚本",
+	"author": "zhangwj999",
+	"private": "true",
+	"repository": "https://github.com/zhangwj999/dealExcelData.git",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"dependencies": {
+		"gcoord": "^0.1.2",
+		"xlsx": "^0.11.6",
+		"lodash": "^4.17.10"
+	}
+}
